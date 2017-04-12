@@ -1,0 +1,29 @@
+{
+  "name": "leaflet.styledlayercontrol",
+  "version": "1.0.0",
+  "description": "Styled Layer Control",
+  "main": "styledLayerControl.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davicustodio/Leaflet.StyledLayerControl.git"
+  },
+  "keywords": [
+    "Leaflet",
+    "Plugin",
+    "Styled",
+    "Layer",
+    "Control"
+  ],
+  "author": "Mukul Patlan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/davicustodio/Leaflet.StyledLayerControl/issues"
+  },
+  "homepage": "https://github.com/davicustodio/Leaflet.StyledLayerControl#readme"
+}
